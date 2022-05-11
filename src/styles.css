@@ -1,0 +1,43 @@
+small {
+  font-size: 12px;
+  margin-top: 0;
+  padding-top: 0;
+}
+h1 {
+  color: black;
+  padding-top: 30px;
+}
+li {
+  font-size: 16px;
+  padding-bottom: 20px;
+  color: blueviolet;
+  display: block;
+  text-align: center;
+}
+.current-weather {
+  font-size: 44px;
+}
+.climate {
+  text-align: center;
+  padding: 20px;
+  padding-top: 0;
+  margin: 40px auto;
+  border: 2px solid grey;
+  background: rgba(63, 171, 243, 0.932);
+  max-width: 350px;
+  border-radius: 15px;
+}
+.col {
+  padding: 5px;
+  color: grey;
+}
+.next-weather {
+  padding-top: 60px;
+}
+.search-city {
+  padding-top: 12px;
+}
+.units {
+  font-size: 14px;
+  margin-bottom: 50px;
+}
